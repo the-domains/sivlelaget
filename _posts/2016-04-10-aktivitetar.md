@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-10T23:16:09.464Z'
-dateModified: '2016-04-10T23:15:52.771Z'
+datePublished: '2016-04-10T23:17:47.190Z'
+dateModified: '2016-04-10T23:16:17.646Z'
 title: Aktiviteter
 author: []
 sourcePath: _posts/2016-04-10-aktivitetar.md
