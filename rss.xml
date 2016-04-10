@@ -4,7 +4,7 @@
         <description><![CDATA[Sivle-laget]]></description>
         <link>https://thegrid.ai/sivlelaget/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 23:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 23:17:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sivlelaget/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Heim]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Sun, 10 Apr 2016 23:17:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Aktiviteter]]></title>
+            <description><![CDATA[<h1>Aktiviteter</h1>]]></description>
+            <link>https://thegrid.ai/sivlelaget/aktivitetar/index.html</link>
+            <guid isPermaLink="false">c9b8907a-d443-4b68-a193-01197c33e9c9</guid>
+            <pubDate>Sun, 10 Apr 2016 23:17:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Per Sivle]]></title>
             <description><![CDATA[<h1>Per Sivle</h1>]]></description>
             <link>https://thegrid.ai/sivlelaget/per-sivle/index.html</link>
             <guid isPermaLink="false">5ac6e3f1-3ece-4cce-9f59-785a6170acbb</guid>
             <pubDate>Sun, 10 Apr 2016 23:17:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aktiviteter]]></title>
-            <description><![CDATA[<h1>Aktiviteter</h1>]]></description>
-            <link>https://thegrid.ai/sivlelaget/aktivitetar/index.html</link>
-            <guid isPermaLink="false">c9b8907a-d443-4b68-a193-01197c33e9c9</guid>
-            <pubDate>Sun, 10 Apr 2016 23:16:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Om Sivle-laget]]></title>
