@@ -5,24 +5,24 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Aktivitetar relatert til Per Sivle
-datePublished: '2016-04-10T23:14:24.551Z'
-dateModified: '2016-04-10T23:12:17.063Z'
-title: Aktivitetar
+description: ''
+datePublished: '2016-04-10T23:16:09.464Z'
+dateModified: '2016-04-10T23:15:52.771Z'
+title: Aktiviteter
 author: []
+sourcePath: _posts/2016-04-10-aktivitetar.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-10-aktivitetar.md
-published: true
 url: aktivitetar/index.html
 _type: Article
 
 ---
-Aktivitetar
+Aktiviteter
 
 a1a1a1
 
