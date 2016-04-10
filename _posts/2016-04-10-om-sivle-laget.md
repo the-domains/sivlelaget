@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Om Sivle-laget
-datePublished: '2016-04-10T23:07:38.000Z'
-dateModified: '2016-04-10T23:06:14.507Z'
-title: ''
+description: ''
+datePublished: '2016-04-10T23:14:12.438Z'
+dateModified: '2016-04-10T23:14:08.519Z'
+title: Om Sivle-laget
 author: []
 sourcePath: _posts/2016-04-10-om-sivle-laget.md
 published: true
