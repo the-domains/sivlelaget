@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-10T23:19:07.173Z'
-dateModified: '2016-04-10T23:19:00.203Z'
+datePublished: '2016-04-10T23:20:56.493Z'
+dateModified: '2016-04-10T23:20:03.140Z'
 title: Om Sivle-laget
 author: []
 sourcePath: _posts/2016-04-10-om-sivle-laget.md
