@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sivle-laget]]></title>
         <description><![CDATA[Sivle-laget]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sivlelaget/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 21:43:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Apr 2016 22:42:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sivlelaget/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Per Sivle]]></title>
+            <description><![CDATA[<h1>Per Sivle</h1>]]></description>
+            <link>https://thegrid.ai/sivlelaget/per-sivle/index.html</link>
+            <guid isPermaLink="false">21b71dab-a582-4542-a418-e05d7a2328f5</guid>
+            <pubDate>Sun, 10 Apr 2016 22:42:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Om Sivle-laget]]></title>
             <description><![CDATA[<h1>Om Sivle-laget</h1>]]></description>
-            <link>undefinedom-sivle-laget/index.html</link>
+            <link>https://thegrid.ai/sivlelaget/om-sivle-laget/index.html</link>
             <guid isPermaLink="false">faa17528-3578-4c4c-9f37-c54a62dbe5ae</guid>
             <pubDate>Sun, 10 Apr 2016 21:43:40 GMT</pubDate>
         </item>
