@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-10T23:38:25.764Z'
-dateModified: '2016-04-10T23:38:23.036Z'
+datePublished: '2016-04-10T23:43:00.445Z'
+dateModified: '2016-04-10T23:42:55.264Z'
 title: Minnesmerker
 author: []
 sourcePath: _posts/2016-04-10-minnesmerker.md
@@ -23,6 +23,8 @@ _type: Article
 
 ---
 Minnesmerker
+
+"Mor si grav"
 
 Stalheim
 
