@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-10T23:35:32.592Z'
-dateModified: '2016-04-10T23:35:21.590Z'
+description: Formål
+datePublished: '2016-04-10T23:53:41.266Z'
+dateModified: '2016-04-10T23:53:34.677Z'
 title: Om Sivle-laget
 author: []
 sourcePath: _posts/2016-04-10-om-sivle-laget.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: om-sivle-laget/index.html
-_type: Article
+_type: WebPage
 
 ---
 Formål
