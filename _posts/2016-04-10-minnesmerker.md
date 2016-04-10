@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-10T23:43:09.089Z'
-dateModified: '2016-04-10T23:43:05.645Z'
+datePublished: '2016-04-10T23:53:05.428Z'
+dateModified: '2016-04-10T23:53:01.876Z'
 title: Minnesmerker
 author: []
 sourcePath: _posts/2016-04-10-minnesmerker.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: minnesmerker/index.html
-_type: Article
+_type: WebPage
 
 ---
 Minnesmerker
