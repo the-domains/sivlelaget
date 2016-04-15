@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Sivle-laget kan kontaktes på følgende adresser:'
-datePublished: '2016-04-15T23:55:02.099Z'
-dateModified: '2016-04-15T23:54:57.069Z'
-title: ''
+description: ''
+datePublished: '2016-04-15T23:55:41.704Z'
+dateModified: '2016-04-15T23:55:35.452Z'
+title: 'Sivle-laget kan kontaktes på følgende adresser:'
 author: []
 sourcePath: _posts/2016-04-15-kontakt-oss.md
 published: true
