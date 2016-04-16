@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Program:'
-datePublished: '2016-04-16T02:03:17.960Z'
-dateModified: '2016-04-16T02:03:13.680Z'
+datePublished: '2016-04-16T02:04:25.245Z'
+dateModified: '2016-04-16T02:04:21.406Z'
 title: 'Sivle-seminar & Årsmøte i Drammen 16. april 2016'
 author: []
 sourcePath: _posts/2016-04-16-sivle-seminar-and-arsmote-i-drammen-16-april-2016.md
