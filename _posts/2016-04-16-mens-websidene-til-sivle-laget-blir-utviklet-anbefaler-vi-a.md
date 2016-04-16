@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Mens websidene til Sivle-laget blir utviklet, anbefaler vi alle å sjekke våre profiler på sosial medier'
-datePublished: '2016-04-16T11:43:32.964Z'
-dateModified: '2016-04-16T11:43:23.689Z'
+datePublished: '2016-04-16T12:09:07.526Z'
+dateModified: '2016-04-16T12:09:04.464Z'
 title: Sivle-laget på sosiale medier
 author: []
 sourcePath: _posts/2016-04-16-mens-websidene-til-sivle-laget-blir-utviklet-anbefaler-vi-a.md
