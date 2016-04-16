@@ -1,0 +1,44 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: 'Mens websidene til Sivle-laget blir utviklet, anbefaler vi alle å sjekke våre profiler på Facebook: "'
+datePublished: '2016-04-16T11:42:43.043Z'
+dateModified: '2016-04-16T11:42:33.653Z'
+title: ''
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-04-16-mens-websidene-til-sivle-laget-blir-utviklet-anbefaler-vi-a.md
+published: true
+url: mens-websidene-til-sivle-laget-blir-utviklet-anbefaler-vi-a/index.html
+_type: Article
+
+---
+Mens websidene til Sivle-laget blir utviklet, anbefaler vi alle å sjekke våre profiler på sosial medier
+
+Facebook:
+
+[P][0][er Sivle][0]
+
+[Gamla Marta][1]
+
+Twitter:
+
+[vesle\_lerka][2]
+
+Instagram:
+
+[ein\_digters\_draum][3]
+
+[0]: https://www.facebook.com/Sivlelaget
+[1]: https://www.facebook.com/GamleMarta/
+[2]: https://twitter.com/vesle_lerka
+[3]: https://www.instagram.com/ein_digters_draum/
