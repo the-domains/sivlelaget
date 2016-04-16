@@ -4,7 +4,7 @@
         <description><![CDATA[Sivle-laget]]></description>
         <link>http://sivlelaget.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 11:58:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 12:00:58 GMT</lastBuildDate>
         <atom:link href="http://sivlelaget.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>http://sivlelaget.no/sivle-laget-med-nye-websider/index.html</link>
             <guid isPermaLink="false">d031e70c-a9fd-402d-bcfe-8e764c9e4f68</guid>
             <pubDate>Sat, 16 Apr 2016 11:38:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1> </h1><p> Kl 12.00	Frammøte med registrering og mat</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21dd75b9-5a7a-4cfe-87c3-b1bdf5b4bfc6.jpg"></article>]]></description>
+            <link>http://sivlelaget.no/sivle-seminar-and-arsmote-i-drammen-16-april-2016/index.html</link>
+            <guid isPermaLink="false">e5128940-7d77-46b6-9c27-581cc61a7385</guid>
+            <pubDate>Sat, 16 Apr 2016 12:00:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Historikar Torkild Alsvik holder foredrag om Per Sivle – radikalaren frå Drammen]]></title>
@@ -40,13 +47,6 @@
             <link>http://sivlelaget.no/sivle-laget/index.html</link>
             <guid isPermaLink="false">e4684958-607a-4a6c-b12d-08af59ee66d8</guid>
             <pubDate>Sat, 16 Apr 2016 02:12:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sivle-seminar & Årsmøte i Drammen 16. april 2016]]></title>
-            <description><![CDATA[<article><h1>Sivle-seminar & Årsmøte i Drammen 16. april 2016</h1><p> Kl 12.00	Frammøte med registrering og mat</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21dd75b9-5a7a-4cfe-87c3-b1bdf5b4bfc6.jpg"></article>]]></description>
-            <link>http://sivlelaget.no/sivle-seminar-and-arsmote-i-drammen-16-april-2016/index.html</link>
-            <guid isPermaLink="false">e5128940-7d77-46b6-9c27-581cc61a7385</guid>
-            <pubDate>Sat, 16 Apr 2016 02:12:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
