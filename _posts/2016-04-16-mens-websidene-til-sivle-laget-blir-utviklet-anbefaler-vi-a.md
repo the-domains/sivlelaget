@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Mens websidene til Sivle-laget blir utviklet, anbefaler vi alle å sjekke våre profiler på Facebook: "'
-datePublished: '2016-04-16T11:42:43.043Z'
-dateModified: '2016-04-16T11:42:33.653Z'
-title: ''
+description: 'Mens websidene til Sivle-laget blir utviklet, anbefaler vi alle å sjekke våre profiler på sosial medier'
+datePublished: '2016-04-16T11:43:32.964Z'
+dateModified: '2016-04-16T11:43:23.689Z'
+title: Sivle-laget på sosiale medier
 author: []
+sourcePath: _posts/2016-04-16-mens-websidene-til-sivle-laget-blir-utviklet-anbefaler-vi-a.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-16-mens-websidene-til-sivle-laget-blir-utviklet-anbefaler-vi-a.md
-published: true
 url: mens-websidene-til-sivle-laget-blir-utviklet-anbefaler-vi-a/index.html
 _type: Article
 
