@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-15T23:59:10.053Z'
-dateModified: '2016-04-15T23:59:04.182Z'
-title: 'Sivle-laget kan kontaktes på følgende adresser:'
+description: 'https://www.facebook.com/Sivlelaget'
+datePublished: '2016-04-16T00:01:28.846Z'
+dateModified: '2016-04-16T00:01:21.578Z'
+title: Kontakt oss
 author: []
 sourcePath: _posts/2016-04-15-kontakt-oss.md
 published: true
@@ -19,9 +19,11 @@ publisher:
   url: null
   favicon: null
 url: kontakt-oss/index.html
-_type: Article
+_type: Blurb
 
 ---
+Sivle-laget kan kontaktes på følgende adresser:
+
 https://www.facebook.com/Sivlelaget
 
 https://www.facebook.com/GamleMarta
