@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Føremålet med laget er å styrkja interessa for, og kjennskapen til Per Sivle si dikting.'
-datePublished: '2016-04-16T01:30:44.935Z'
-dateModified: '2016-04-16T01:30:37.194Z'
+datePublished: '2016-04-16T01:31:55.443Z'
+dateModified: '2016-04-16T01:31:52.744Z'
 title: Sivle-laget
 author: []
 sourcePath: _posts/2016-04-16-sivle-laget.md
@@ -22,5 +22,5 @@ url: sivle-laget/index.html
 _type: Article
 
 ---
-Føremålet med laget er å styrkja interessa for, og kjennskapen til Per Sivle si dikting.  
+Føremålet med laget er å styrkja interessa for, og kjennskapen til Per Sivle si dikting.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7fc64f9-6632-40f1-b7b1-677044a979dc.png)
