@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Program:'
-datePublished: '2016-04-16T02:04:25.245Z'
-dateModified: '2016-04-16T02:04:21.406Z'
+description: " Kl 12.00\tFrammøte med registrering og mat"
+datePublished: '2016-04-16T02:08:50.751Z'
+dateModified: '2016-04-16T02:08:47.874Z'
 title: 'Sivle-seminar & Årsmøte i Drammen 16. april 2016'
 author: []
 sourcePath: _posts/2016-04-16-sivle-seminar-and-arsmote-i-drammen-16-april-2016.md
@@ -22,6 +22,8 @@ url: sivle-seminar-and-arsmote-i-drammen-16-april-2016/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21dd75b9-5a7a-4cfe-87c3-b1bdf5b4bfc6.jpg)
+
 Program:
 
 Kl 12.00 Frammøte med registrering og mat
