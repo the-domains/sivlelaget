@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Sivle-laget kan kontaktes på følgende adresser:'
-datePublished: '2016-04-16T07:03:36.072Z'
-dateModified: '2016-04-16T07:03:17.776Z'
+datePublished: '2016-04-16T14:20:54.504Z'
+dateModified: '2016-04-16T14:20:49.826Z'
 title: Kontakt oss
 author: []
 sourcePath: _posts/2016-04-15-kontakt-oss.md
@@ -36,15 +36,19 @@ Instagram: [ein\_digters\_draum][3]
 
 Henvendelser om medlemskap:
 
-medlem (at) sivlelaget.no
+medlem (at) sivlelaget . no
 
 Innspill til Gamla Marta:
 
-gamlamarta (at) sivlelaget.no
+gamlamarta (at) sivlelaget . no
 
 Øvrig e-post til Sivle-lagets styre:
 
-post (at) sivlelaget.no
+post (at) sivlelaget . no
+
+Send gjerne også bilder du ønsker at Sivle-laget skal dele ut, til e-post adressen:
+
+sivlelaget (at) gmail . com
 
 [0]: https://www.facebook.com/Sivlelaget
 [1]: https://www.facebook.com/GamleMarta
