@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Sivle-laget lanserer sine websider basert på en ny type web teknologi.
-datePublished: '2016-04-16T07:46:22.396Z'
-dateModified: '2016-04-16T07:46:16.079Z'
+datePublished: '2016-04-16T07:46:38.190Z'
+dateModified: '2016-04-16T07:46:30.970Z'
 title: Sivle-laget med nye websider
 author: []
 authors: []
