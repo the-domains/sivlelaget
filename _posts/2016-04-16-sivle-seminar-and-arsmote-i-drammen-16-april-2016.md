@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Program:'
-datePublished: '2016-04-16T02:01:23.012Z'
-dateModified: '2016-04-16T02:01:20.457Z'
+datePublished: '2016-04-16T02:03:17.960Z'
+dateModified: '2016-04-16T02:03:13.680Z'
 title: 'Sivle-seminar & Årsmøte i Drammen 16. april 2016'
 author: []
 sourcePath: _posts/2016-04-16-sivle-seminar-and-arsmote-i-drammen-16-april-2016.md
@@ -47,4 +47,3 @@ Kl 19.00 Middag
 Kulturkveld med m.a. Jon Sverre Ruder
 
 og musikkvener
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4255c59b-1fa0-48c1-976e-c0f811487435.jpg)
