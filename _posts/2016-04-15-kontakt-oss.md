@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Sivle-laget kan kontaktes på følgende adresser:'
-datePublished: '2016-04-16T15:27:11.791Z'
-dateModified: '2016-04-16T15:27:09.066Z'
+datePublished: '2016-04-16T15:31:34.799Z'
+dateModified: '2016-04-16T15:31:31.770Z'
 title: Kontakt oss
 author: []
 sourcePath: _posts/2016-04-15-kontakt-oss.md
@@ -47,10 +47,6 @@ gamlamarta (at) sivlelaget . no
 post (at) sivlelaget . no
 
 Send gjerne også bilder du ønsker at Sivle-laget skal dele ut, til e-post adressen:
-
-sivlelaget (at) gmail . com
-
-Bilder som kan være aktuelle for Sivle-laget, vennligst send dette til;
 
 sivlelaget (at) gmail . com
 
