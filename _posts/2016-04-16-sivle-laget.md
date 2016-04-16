@@ -1,13 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Føremålet med laget er å styrkja interessa for, og kjennskapen til Per Sivle si dikting.'
-datePublished: '2016-04-16T00:58:06.431Z'
-dateModified: '2016-04-16T00:57:41.734Z'
+description: '§2: Føremålet med laget er å styrkja interessa for, og kjennskapen til Per Sivle si dikting.'
+datePublished: '2016-04-16T00:59:19.455Z'
+dateModified: '2016-04-16T00:59:15.830Z'
 title: Sivle-laget
 author: []
 sourcePath: _posts/2016-04-16-sivle-laget.md
@@ -18,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: sivle-laget/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e13a8486-15bb-4906-8385-02155295150c.gif)
