@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'https://www.facebook.com/Sivlelaget'
-datePublished: '2016-04-16T00:01:28.846Z'
-dateModified: '2016-04-16T00:01:21.578Z'
+description: 'Sivle-laget kan kontaktes på følgende adresser:'
+datePublished: '2016-04-16T01:16:05.541Z'
+dateModified: '2016-04-16T01:16:01.545Z'
 title: Kontakt oss
 author: []
 sourcePath: _posts/2016-04-15-kontakt-oss.md
@@ -24,14 +24,19 @@ _type: Blurb
 ---
 Sivle-laget kan kontaktes på følgende adresser:
 
-https://www.facebook.com/Sivlelaget
+Facebook: [Per Sivle][0]
 
-https://www.facebook.com/GamleMarta
+Facebook: [Gamla Marta][1]
 
-https://twitter.com/vesle\_lerka
+Twitter: [vesle\_lerka][2]
 
-https://www.instagram.com/ein\_digters\_draum/
+Instagram: [ein\_digters\_draum][3]
 
 Post adresse:       aaaaa, 0000 bbbbb
 
 Faktura adresse:  aaaaa, 0000 bbbbb
+
+[0]: https://www.facebook.com/Sivlelaget
+[1]: https://www.facebook.com/GamleMarta
+[2]: https://twitter.com/vesle_lerka
+[3]: https://www.instagram.com/ein_digters_draum/
