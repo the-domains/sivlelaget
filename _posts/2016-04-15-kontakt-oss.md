@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Sivle-laget kan kontaktes på følgende adresser:'
-datePublished: '2016-04-16T15:24:36.135Z'
-dateModified: '2016-04-16T15:23:05.708Z'
+datePublished: '2016-04-16T15:24:58.005Z'
+dateModified: '2016-04-16T15:24:41.694Z'
 title: Kontakt oss
 author: []
 sourcePath: _posts/2016-04-15-kontakt-oss.md
