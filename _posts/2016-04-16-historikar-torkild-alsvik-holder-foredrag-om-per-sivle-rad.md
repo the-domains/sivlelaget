@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-16T11:57:19.668Z'
-dateModified: '2016-04-16T11:53:12.712Z'
+datePublished: '2016-04-16T11:57:50.145Z'
+dateModified: '2016-04-16T11:57:36.703Z'
 title: Historikar Torkild Alsvik holder foredrag om Per Sivle – radikalaren frå Drammen
 author: []
+sourcePath: _posts/2016-04-16-historikar-torkild-alsvik-holder-foredrag-om-per-sivle-rad.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-16-historikar-torkild-alsvik-holder-foredrag-om-per-sivle-rad.md
-published: true
 url: historikar-torkild-alsvik-holder-foredrag-om-per-sivle-rad/index.html
 _type: Article
 
