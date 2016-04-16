@@ -1,7 +1,7 @@
 name: Sivle-laget
 favicon: null
 layout_spectrum: 0.00903
-typography_spectrum: 0.6243748681154102
+typography_spectrum: 0.30649
 title: Sivle-laget
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#0097ff'
     - '#929292'
     - '#49eefe'
-  brandStrength: 0.375
-  lightness: 0.5
-  saturation: 0.3125
+  brandStrength: 0.8125
+  lightness: 1
+  saturation: 0.25
   rhythmicContrast: 0.25
 purpose: []
