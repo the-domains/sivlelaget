@@ -4,7 +4,7 @@
         <description><![CDATA[Sivle-laget]]></description>
         <link>http://sivlelaget.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 12:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 13:47:04 GMT</lastBuildDate>
         <atom:link href="http://sivlelaget.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>http://sivlelaget.no/sivle-laget-med-nye-websider/index.html</link>
             <guid isPermaLink="false">d031e70c-a9fd-402d-bcfe-8e764c9e4f68</guid>
             <pubDate>Sat, 16 Apr 2016 11:38:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Program]]></title>
+            <description><![CDATA[<article><h1>Program</h1><p> Kl 12.00	Frammøte med registrering og mat</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21dd75b9-5a7a-4cfe-87c3-b1bdf5b4bfc6.jpg"></article>]]></description>
+            <link>http://sivlelaget.no/sivle-seminar-and-arsmote-i-drammen-16-april-2016/index.html</link>
+            <guid isPermaLink="false">e5128940-7d77-46b6-9c27-581cc61a7385</guid>
+            <pubDate>Sat, 16 Apr 2016 13:47:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sivle-laget]]></title>
@@ -40,13 +47,6 @@
             <link>http://sivlelaget.no/historikar-torkild-alsvik-holder-foredrag-om-per-sivle-rad/index.html</link>
             <guid isPermaLink="false">a265995b-c315-4d13-a89d-717e2313aa02</guid>
             <pubDate>Sat, 16 Apr 2016 12:06:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ ]]></title>
-            <description><![CDATA[<article><h1> </h1><p> Kl 12.00	Frammøte med registrering og mat</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21dd75b9-5a7a-4cfe-87c3-b1bdf5b4bfc6.jpg"></article>]]></description>
-            <link>http://sivlelaget.no/sivle-seminar-and-arsmote-i-drammen-16-april-2016/index.html</link>
-            <guid isPermaLink="false">e5128940-7d77-46b6-9c27-581cc61a7385</guid>
-            <pubDate>Sat, 16 Apr 2016 12:00:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
