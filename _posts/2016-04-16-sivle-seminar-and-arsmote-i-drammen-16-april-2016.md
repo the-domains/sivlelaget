@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: " Kl 12.00\tFrammøte med registrering og mat"
-datePublished: '2016-04-16T12:00:21.961Z'
-dateModified: '2016-04-16T12:00:10.396Z'
-title: ' '
+datePublished: '2016-04-16T13:47:04.179Z'
+dateModified: '2016-04-16T13:47:00.909Z'
+title: Program
 author: []
 sourcePath: _posts/2016-04-16-sivle-seminar-and-arsmote-i-drammen-16-april-2016.md
 published: true
@@ -24,11 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21dd75b9-5a7a-4cfe-87c3-b1bdf5b4bfc6.jpg)
 
-# 
-
-# 
-
-# Program:
+# Program
 
 Kl 12.00 Frammøte med registrering og mat
 
