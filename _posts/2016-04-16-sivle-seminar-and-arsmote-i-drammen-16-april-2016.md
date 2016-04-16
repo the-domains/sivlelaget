@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: " Kl 12.00\tFrammøte med registrering og mat"
-datePublished: '2016-04-16T02:08:50.751Z'
-dateModified: '2016-04-16T02:08:47.874Z'
+datePublished: '2016-04-16T02:12:15.219Z'
+dateModified: '2016-04-16T02:11:59.198Z'
 title: 'Sivle-seminar & Årsmøte i Drammen 16. april 2016'
 author: []
 sourcePath: _posts/2016-04-16-sivle-seminar-and-arsmote-i-drammen-16-april-2016.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21dd75b9-5a7a-4cfe-87c3-b1bdf5b4bfc6.jpg)
 
-Program:
+## Program:
 
 Kl 12.00 Frammøte med registrering og mat
 
@@ -46,6 +46,4 @@ Kl 17.30 Me går til Per Sivle si grav på Strømsgodset kirkegård
 
 Kl 19.00 Middag
 
-Kulturkveld med m.a. Jon Sverre Ruder
-
-og musikkvener
+Kulturkveld med m.a. Jon Sverre Ruder og musikkvener
